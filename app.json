@@ -7,7 +7,7 @@
    "FiletoLinkBot",
    "For ScreenShot Bot"
   ],
- "repository": "https://github.com/prgofficial/FileToLink-SSBOT",
+ "repository": "https://github.com/Shathees27/FileToLink-SSBOT",
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
